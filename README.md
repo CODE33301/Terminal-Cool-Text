@@ -1,6 +1,6 @@
 # Terminal-Cool-Text
 ## 5/20/2020
-![](IMG.png)
+![](IMG-01.png)
 Instructions:
 
 1. Open your terminal and type:
