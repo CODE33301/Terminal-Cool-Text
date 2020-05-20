@@ -1,6 +1,10 @@
 # Terminal-Cool-Text
 ## 5/20/2020
 ![](IMG-01.png)
+
+***Note: Background Color Not Included!***
+[For Background Color](https://github.com/CODE33301/Multiple-Color-Terminal)
+
 Instructions:
 
 1. Open your terminal and type:
@@ -13,7 +17,7 @@ leafpad .bashrc
 ```
 mkdir /home/$USER/CoolText
 ```
-4. Now you can use any sites like. Ex: http://www.patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+4. Now you can use any sites like. Ex: [Patorjk.com](http://www.patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 5. Save your created text in a file. In the folder named CoolText. You can add as may as you like in the folder but not in the same file!. Ex: text-01, test-01, Alpha
 6. Type in terminal:
 ```
