@@ -8,7 +8,10 @@
 Instructions:
 
 1. Install lolcat
+Deb:
 sudo apt install lolcat
+Arch:
+sudo pacman -S lolcat
 
 2. Create CoolText Folder
 mkdir /home/$USER/CoolText
