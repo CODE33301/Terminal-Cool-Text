@@ -3,8 +3,8 @@
 ###################################
 
 # Create Array
-declare -a fileNames
+declare -a file_names
 # In a loop, Gets All Files From CoolText Folder, Adds All To A Array
-for oneByOne in $(ls /home/$USER/CoolText);do    fileNames+=($oneByOne);done
+for one_by_one in $(ls $HOME/CoolText);do    file_names+=($one_by_one);done
 # Random From Array And Displays It
-cat "/home/"$USER"/CoolText/"${fileNames[RANDOM%"${#fileNames[@]}"]} | lolcat
+cat $HOME"/CoolText/"${file_names[RANDOM%"${#file_names[@]}"]} | lolcat
